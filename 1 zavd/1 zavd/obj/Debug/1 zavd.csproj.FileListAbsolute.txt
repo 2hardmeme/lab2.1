@@ -1,0 +1,7 @@
+D:\University\ООП\2 laba\1 zavd\1 zavd\bin\Debug\1 zavd.exe.config
+D:\University\ООП\2 laba\1 zavd\1 zavd\bin\Debug\1 zavd.exe
+D:\University\ООП\2 laba\1 zavd\1 zavd\bin\Debug\1 zavd.pdb
+D:\University\ООП\2 laba\1 zavd\1 zavd\obj\Debug\1 zavd.csprojAssemblyReference.cache
+D:\University\ООП\2 laba\1 zavd\1 zavd\obj\Debug\1 zavd.csproj.CoreCompileInputs.cache
+D:\University\ООП\2 laba\1 zavd\1 zavd\obj\Debug\1 zavd.exe
+D:\University\ООП\2 laba\1 zavd\1 zavd\obj\Debug\1 zavd.pdb
